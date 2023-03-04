@@ -12,9 +12,9 @@ This is a good practice and reference for those who want to move from front-end 
 
 ## 演示地址/Demo site
 
-个人博客[blog.frogo.cn](http://blog.frogo.cn)，该博客是部署在阿里云的centOS6.5上面，部署教程可参照 [在阿里云ECS CentOS7上部署基于MongoDB+Node.js的博客](http://blog.frogo.cn/content/5b5ed2810a7a1d0a11922bd5)
+个人博客[ardour.club](https://ardour.eu.org:520)，该博客是部署在阿里云的centOS6.5上面，部署教程可参照 [在阿里云ECS CentOS7上部署基于MongoDB+Node.js的博客](http://blog.frogo.cn/content/5b5ed2810a7a1d0a11922bd5)
 
-Personal Blog [blog.frogo.cn](http://blog.frogo.cn)。
+Personal Blog [ardour.club](https://ardour.eu.org:520)。
 
 ## 主要技术列表/Main technology list
 
@@ -91,11 +91,5 @@ The Back-End uses the traditional `MVC` structure, `models` are the object model
 7. The browser opens <http://localhost:7000/admin/> Follow the prompts to install the initialization.
 8. You can open the chrome browser to debug the code of the node.js server, enter chrome://inspect in the address bar, open `Open dedicated DevTools for Node` will come up with a debugging window, Of course, you can also use WebStorm to open the debug mode to debug.
 
-## 截图 / ScreenShot
 
-![alt](http://frogo.cn/images/screenshot_index_.png)
-
-![alt](http://frogo.cn/images/screenshot_login_.png)
-
-![alt](http://frogo.cn/images/screenshot_admin_.png)
 
